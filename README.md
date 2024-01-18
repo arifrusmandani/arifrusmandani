@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arifrusmandani
 - 👀 I’m interested in Programming, Design and Digital Marketing 
-- :computer: I use HTML, CSS, JS, PHP
-- 🌱 I’m currently learning :snake: Python
+- :computer: I use HTML, CSS, JS, PHP, Python
+- 🌱 I’m currently learning Kubernetes, Docker
 - 📫 How to reach me arifrusmandani@gmail.com
 
 <!---
