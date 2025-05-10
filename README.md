@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifrusmandani
 - 👀 I’m interested in Programming, Design and Digital Marketing 
-- :computer: I JavaScript, PHP, Python
+- :computer: I use JavaScript, PHP, Python
 - 📫 How to reach me arifrusmandani@gmail.com
 
 <!---
